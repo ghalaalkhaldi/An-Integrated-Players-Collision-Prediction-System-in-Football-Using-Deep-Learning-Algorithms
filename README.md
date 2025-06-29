@@ -124,4 +124,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 ---
 
 **Contact:**
-[Your Name (e.g., Ghala M. Alkhaldi)] - [Your Email Address (Optional, e.g., your.email@example.com)]
+Ghala M. Alkhaldi - ghalaalkhaldi10@gmail.com
