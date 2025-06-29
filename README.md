@@ -15,29 +15,6 @@ The system utilizes the YOLOv8 framework for robust player detection and integra
 * **Injury Risk Mitigation:** Aims to reduce player absences and medical expenses by enabling proactive identification of high-risk situations.
 * **Strategic Game Analysis:** Offers insights into player occurrences and patterns, aiding coaches in developing optimized game-play strategies.
 
-## Project Structure
-
-.
-├── docs/                       # Contains the full project report (An-Integrated-Players-Collision-Prediction-System-in-Football-Using-Deep-Learning-Algorithms-Report.pdf).
-├── src/                        # Source code for the collision prediction system.
-│   ├── app.py                  # Main Flask application script for the web server.
-│   ├── instructions.txt        # Detailed instructions on how to use the system.
-│   ├── requirements.txt        # Python dependencies required for the project.
-│   ├── tracker.py              # Script handling player tracking and core prediction logic.
-│   ├── static/                 # Static web assets (CSS, images, JavaScript, trained models).
-│   │   ├── css/                # Cascading Style Sheets for UI.
-│   │   ├── img/                # Images used in the web interface (e.g., rolling-loader.gif, logos).
-│   │   ├── js/                 # JavaScript files for interactive elements.
-│   │   ├── model/              # Pre-trained deep learning models (e.g., best.pt).
-│   │   ├── output/             # Directory for system-generated outputs (e.g., processed videos, reports).
-│   │   ├── temp/               # Temporary files generated during processing.
-│   │   └── uploads/            # Directory for storing uploaded input video files (e.g., test1.mp4, video1.mp4).
-│   ├── templates/              # HTML templates for the web interface.
-│   │   └── index.html          # Main HTML page for the system's UI.
-├── .gitignore                  # Specifies files and directories to be ignored by Git (e.g., virtual environments, cache files).
-├── README.md                   # This file.
-└── LICENSE                     # License file (e.g., MIT, Apache 2.0).
-
 
 ## Installation and Setup
 
