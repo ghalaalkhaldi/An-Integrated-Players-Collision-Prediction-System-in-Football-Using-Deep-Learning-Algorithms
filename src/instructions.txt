@@ -1,0 +1,18 @@
+-v1. Install Python in your system locally.
+
+2. Open the directory of the project in console OR powershell or VS code terminal.
+
+3. install virtual environment library
+    pip install virtualenv
+
+4. create a virtual environment by executing the commnad below:
+    python -m venv venv-env
+
+5. activate the venv
+    venv-env/Scripts/Activate.ps1
+
+6. install the required libraries and dependencies:
+    pip install -r requirements.txt
+
+7. finally to execute the code, type in and run:
+    python app.py

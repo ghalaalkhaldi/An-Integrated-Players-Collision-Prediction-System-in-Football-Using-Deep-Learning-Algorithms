@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+venv-env/  # Added specifically for your venv-env folder
+*venv*/
+pip-log.txt
+pip-delete-this-arg.txt
+.tox/
+.coverage
+.pytest_cache/
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store
+.localized
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output and temporary files (adjust as needed)
+output/
+temp/
+*.zip 
